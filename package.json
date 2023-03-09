@@ -1,0 +1,25 @@
+{
+  "name": "profile-generator",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurabbity915/Challenge_12_Team_Profile_Generator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laurabbity915/Challenge_12_Team_Profile_Generator/issues"
+  },
+  "homepage": "https://github.com/laurabbity915/Challenge_12_Team_Profile_Generator#readme",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  }
+}
